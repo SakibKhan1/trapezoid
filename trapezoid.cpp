@@ -1,5 +1,5 @@
 /*
-Author: Ashok Surujdeo
+Author: Sakib Khan
 Course: CSCI-135
 Instructor: Tong Yi
 Assignment: Trapezoid
